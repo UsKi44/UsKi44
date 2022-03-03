@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @UsKi44 (Luka)
 - 👀 I’m interested in Front-End Development
-- 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on ...
+- 🌱 Currently working as a Front-End Developer
+- 💞️ I’m looking to collaborate on ... (Anything where I can learn lots of stuff)
 - 📫 How to reach me:</br> - Facebook: https://www.facebook.com/luka.fircxalava.90/  </br> - Instagram: https://www.instagram.com/fircxalava.luka/ </br> - Linkedin: www.linkedin.com/in/luka-phirtskahalava-22438a202
 
 <!---
