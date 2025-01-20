@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @UsKi44 (Luka)
+- 👋 Hi, I’m Luka (@UsKi44)
 - 👀 I’m interested in Front-End Development
 - 🌱 Currently working as a Front-End Developer
 - 💞️ I’m looking to collaborate on ... (Anything where I can learn lots of stuff)
