@@ -23,14 +23,14 @@ Currently developing web games using:
 
 ```javascript
 const lukasExpertise = {
-  languages: ['JavaScript (Advanced)', 'TypeScript (Intermediate)', 'HTML5 (Advanced)', 'CSS3 (Advanced)'],
-  frameworks: ['React (Advanced)', 'React Native (Intermediate)'],
-  styling: ['SASS/SCSS (Advanced)', 'Bootstrap (Intermediate)'],
-  state: ['Redux (Intermediate)'],
-  tools: ['Git (Intermediate)', 'npm (Intermediate)', 'yarn (Intermediate)', 'webpack (Basic)'],
-  testing: ['Playwright (Basic)'],
-  other: ['REST API (Intermediate)', 'Firebase (Intermediate)', 'AdobeXD (Basic)'],
-  gamedev: ['Pixi.js (Advanced)'],
+  languages: ['JavaScript', 'TypeScript','NodeJS' 'HTML5', 'CSS3'],
+  frameworks: ['React', 'React Native'],
+  styling: ['SASS/SCSS', 'Tailwind', 'Bootstrap'],
+  state: ['Redux','Zustand', 'Context'],
+  tools: ['Git', 'npm', 'yarn', 'webpack', expo, React Native-CLI],
+  testing: ['Playwright',cypress],
+  other: ['REST API', 'Firebase', 'AdobeXD'],
+  gamedev: ['Pixi.js', 'Three JS', 'gsap'],
   languages: {
     Georgian: 'Native',
     English: 'Fluent',
@@ -47,24 +47,7 @@ Upgaming (12/2023 - Present)
 Solvio (10/2021 - 12/2023)
 ↑
 Remontali - Intern (03/2021 - 06/2021)
-↑
-BTU - Informational Technologies (Bachelor's)
 ```
-
-## 🌟 Projects & Experience
-
-- **Web Game Development** at Upgaming using TypeScript & PixiJS
-- **Enterprise Web Applications** at Solvio:
-  - Forwarder.ge
-  - Centers.ge
-  - gfacrm.org.ge
-  - geogapp.ge
-
-## 📚 Always Learning
-
-Continuously expanding my knowledge through reading and hands-on projects. Certified in:
-- CodeCademy Building Interactive Javascript Websites
-- Responsive Web Design
 
 ## 💬 Let's Connect!
 
