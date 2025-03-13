@@ -3,36 +3,72 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/luka-phirtskahalava-22438a202)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-purple)](https://www.instagram.com/fircxalava.luka/)
 [![Facebook](https://img.shields.io/badge/Facebook-Connect-blue)](https://www.facebook.com/luka.fircxalava.90/)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:lukaphirtskhalavaa5@gmail.com)
 
 ## About Me
 
-Front-End Developer with 4+ years of crafting engaging digital experiences. I transform design concepts into seamless, responsive interfaces that users love.
+Front-End Developer with 3+ years of professional experience spanning web and game development. Currently building engaging web games at Upgaming, with previous experience creating robust web applications. Based in Tbilisi, Georgia. Always eager to learn and tackle new challenges!
 
-> "Code is like humor. When you have to explain it, it's bad." – Cory House
+> "The best way to predict the future is to implement it" 
+
+## 🎮 Game Development
+
+Currently developing web games using:
+- **TypeScript** (OOP principles)
+- **PixiJS** game engine
+- Performance optimization techniques
+- Interactive UI components
 
 ## 🛠️ Tech Stack
 
 ```javascript
-const lukaTechStack = {
-  languages: ['JavaScript', 'TypeScript', 'HTML5', 'CSS3'],
-  frameworks: ['React', 'Vue.js', 'Angular'],
-  styling: ['SASS/SCSS', 'Tailwind CSS', 'Styled Components'],
-  tools: ['Webpack', 'Git', 'NPM', 'Vite'],
-  design: ['Figma', 'Adobe XD'],
-  architecture: ['Responsive Design', 'Progressive Web Apps'],
-  currently: 'Building high-performance user interfaces'
+const lukasExpertise = {
+  languages: ['JavaScript (Advanced)', 'TypeScript (Intermediate)', 'HTML5 (Advanced)', 'CSS3 (Advanced)'],
+  frameworks: ['React (Advanced)', 'React Native (Intermediate)'],
+  styling: ['SASS/SCSS (Advanced)', 'Bootstrap (Intermediate)'],
+  state: ['Redux (Intermediate)'],
+  tools: ['Git (Intermediate)', 'npm (Intermediate)', 'yarn (Intermediate)', 'webpack (Basic)'],
+  testing: ['Playwright (Basic)'],
+  other: ['REST API (Intermediate)', 'Firebase (Intermediate)', 'AdobeXD (Basic)'],
+  gamedev: ['Pixi.js (Advanced)'],
+  languages: {
+    Georgian: 'Native',
+    English: 'Fluent',
+    Russian: 'Intermediate'
+  }
 };
 ```
 
-## 🚀 My Journey
+## 💼 Professional Journey
 
 ```
-Junior Dev (2019) ➡️ Mid-level Dev (2021) ➡️ Expanding Knowledge (Now)
+Upgaming (12/2023 - Present)
+↑
+Solvio (10/2021 - 12/2023)
+↑
+Remontali - Intern (03/2021 - 06/2021)
+↑
+BTU - Informational Technologies (Bachelor's)
 ```
+
+## 🌟 Projects & Experience
+
+- **Web Game Development** at Upgaming using TypeScript & PixiJS
+- **Enterprise Web Applications** at Solvio:
+  - Forwarder.ge
+  - Centers.ge
+  - gfacrm.org.ge
+  - geogapp.ge
+
+## 📚 Always Learning
+
+Continuously expanding my knowledge through reading and hands-on projects. Certified in:
+- CodeCademy Building Interactive Javascript Websites
+- Responsive Web Design
 
 ## 💬 Let's Connect!
 
-I'm always open to collaborating on projects where I can contribute my skills and learn something new. Whether you're working on an open-source initiative or need front-end expertise for your project, I'd love to hear from you!
+I'm always open to collaborating on interesting projects where I can both contribute and learn. Whether you're developing a web application or a browser game, I'd love to hear from you!
 
 ## 📈 GitHub Stats
 
@@ -41,4 +77,4 @@ I'm always open to collaborating on projects where I can contribute my skills an
 
 ---
 
-*"The only way to learn a new programming language is by writing programs in it." - Dennis Ritchie*
+*"I am always open to new and interesting projects cause I like to learn"*
