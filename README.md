@@ -28,7 +28,7 @@ const lukasExpertise = {
   styling: ['SASS/SCSS', 'Tailwind', 'Bootstrap'],
   state: ['Redux','Zustand', 'Context'],
   tools: ['Git', 'npm', 'yarn', 'webpack', 'expo', 'React Native-CLI'],
-  testing: ['Playwright',cypress],
+  testing: ['Playwright','cypress'],
   other: ['REST API', 'Firebase', 'AdobeXD'],
   gamedev: ['Pixi.js', 'Three JS', 'gsap'],
   languages: {
